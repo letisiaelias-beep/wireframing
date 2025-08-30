@@ -36,4 +36,16 @@ It includes real images, colors, navigation icons, text fields, and styled butto
 This type of wireframe is useful for usability testing and presenting to stakeholders, as it clearly communicates the look and feel of the final app.  
 
 --------------------
+## Wireframing Tools  
 
+Popular wireframing tools include:  
+- **Figma** – Collaborative, browser-based design tool, perfect for wireframing and prototyping.  
+- Sketch  
+- Adobe XD  
+- Balsamiq  
+
+**Why Figma is recommended for wireframing**  
+- Works directly in the browser (no heavy installations).  
+- Real-time collaboration for teams.  
+- Easy transition from wireframe to prototype.  
+-----------------------

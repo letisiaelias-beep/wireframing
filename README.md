@@ -10,7 +10,7 @@ This step is crucial in the UI/UX process as it ensures clarity, reduces risks, 
 
 |1. |Layout Structure| Defines where elements (buttons, menus, forms) will be placed on the screen.|  
 
-|--------------|------------------|
+|--------------|------------------|---------------------------|
 
   | *Example: A header at the top, content in the middle, footer at the bottom.*|  
 |--------|--------|

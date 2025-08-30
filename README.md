@@ -29,3 +29,11 @@ This step is crucial in the UI/UX process as it ensures clarity, reduces risks, 
   Detailed, polished versions with colors, typography, and near-final design.  
   *Use case: Later stages before prototyping.*  
 -----------------
+### Type of Wireframe  
+
+The wireframe created in Figma is a **High-Fidelity Wireframe**.  
+It includes real images, colors, navigation icons, text fields, and styled buttons, making it very close to the final user interface.  
+This type of wireframe is useful for usability testing and presenting to stakeholders, as it clearly communicates the look and feel of the final app.  
+
+--------------------
+

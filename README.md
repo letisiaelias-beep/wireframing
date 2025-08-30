@@ -51,6 +51,7 @@ Popular wireframing tools include:
 -----------------------
 ## Benefits of Wireframing in Software Development  
 
+*The following are benefits of wireframing in software development:*
 - **Clarity**: Provides a clear visual representation of the project before coding.  
 - **Communication**: Acts as a shared language between developers, designers, and stakeholders.  
 - **Usability**: Highlights potential issues early (e.g., confusing navigation).  

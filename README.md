@@ -44,7 +44,7 @@ Popular wireframing tools include:
 - Adobe XD  
 - Balsamiq  
 
-**Figma is the best recommended for wireframing because:**  
+**Figma is the best recommended tool for wireframing because:**  
 - Works directly in the browser (no heavy installations).  
 - Real-time collaboration for teams.  
 - Easy transition from wireframe to prototype.  

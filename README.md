@@ -7,7 +7,8 @@ This step is crucial in the UI/UX process as it ensures clarity, reduces risks, 
 ## Key Elements of Wireframing  
 
 |1. |Layout Structure| Defines where elements (buttons, menus, forms) will be placed on the screen.|  
-   *Example: A header at the top, content in the middle, footer at the bottom.*  
+|--------------|------------------|
+  | *Example: A header at the top, content in the middle, footer at the bottom.*|  
 |--------|--------|
 2. **Navigation** – Shows how users move through the app/site (menus, links, tabs).  
    *Example: A navigation bar that lets users switch between Home, Profile, and Settings.*  

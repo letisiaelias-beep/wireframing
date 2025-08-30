@@ -18,3 +18,14 @@ This step is crucial in the UI/UX process as it ensures clarity, reduces risks, 
 
 5. **Functionality** – Demonstrates interactive elements like buttons or search bars.  
    *Example: A “Sign Up” button linked to a registration form.*  
+--------------------
+## Types of Wireframes  
+
+- **Low-Fidelity Wireframes**  
+  Simple sketches or outlines focusing only on structure and flow.  
+  *Use case: Early brainstorming sessions.*  
+
+- **High-Fidelity Wireframes**  
+  Detailed, polished versions with colors, typography, and near-final design.  
+  *Use case: Later stages before prototyping.*  
+-----------------
